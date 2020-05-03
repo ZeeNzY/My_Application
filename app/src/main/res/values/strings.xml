@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="location">LOCATION</string>
+    <string name="welcome_anonymous">Welcome Anonymous</string>
+</resources>
