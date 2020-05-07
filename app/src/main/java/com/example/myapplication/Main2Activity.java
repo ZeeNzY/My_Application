@@ -51,7 +51,7 @@ public class Main2Activity extends AppCompatActivity {
 
     public void call_msg(View view){
 
-        startActivity(new Intent(Main2Activity.this, Main3Activity.class));
+        startActivity(new Intent(Main2Activity.this, Notifications.class));
 
     }
 
